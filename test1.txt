@@ -1,5 +1,9 @@
 I born in 1999 dec 02
 I have done my SSC in 2016
 this is test1 txt file.
+<<<<<<< HEAD
 i have completed my H.S.C in 2018.
  i have started my job  
+=======
+i have completed my H.S.C in 2020
+>>>>>>> 7aa23cfcbfd406c5f329e40f631abc69fafd34e9
