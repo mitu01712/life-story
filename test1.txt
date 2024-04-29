@@ -3,8 +3,5 @@ I have done my SSC in 2016
 this is test1 txt file.
 <<<<<<< HEAD
 i have completed my H.S.C in 2018.
- i have started my job  
-=======
-i have completed my H.S.C in 2020
->>>>>>> 7aa23cfcbfd406c5f329e40f631abc69fafd34e9
-i will join my new job at 2 may.
+
+i will join my new job at 2 may. I am a student in aiub . i will complete my study with in 2024.
