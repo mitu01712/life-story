@@ -1,9 +1,9 @@
 I born in 1999 dec 02
 I have done my SSC in 2016
 this is test1 txt file.
-<<<<<<< HEAD
 i have completed my H.S.C in 2018.
-
 i will join my new job at 2 may. I am a student in aiub . i will complete my study with in 2024.
 logo alignment is centered.
+new line is added in the feature branch.
 this text is added from main branch.
+
